@@ -77,3 +77,7 @@ gcloud beta compute instance-groups managed set-autoscaling "instance-group-1" \
  --target-cpu-utilization "0.6" \
  --mode "on"
  </pre>
+## 建立 HTTP(S) Load Balancer
+### STEP1 選擇 網路服務=>負載平衡
+![負載平衡](images/Load_balance1.jpg)
+### STEP2 幫你的 HTTP(S) Load Balancer 命名後， 點選 Backend 中的 "Create or select a backend service"
