@@ -6,16 +6,21 @@ gcloud compute images list
 </pre>
 <pre>
 
-gcloud compute instances create "instance-2" \
- --zone "asia-east1-b" \
- --machine-type "n1-standard-1" \
- --subnet "default" \
- --maintenance-policy "MIGRATE" \
- --image "debain-10-buster-v20191210" \
- --image-project "debian-cloud" \
- --boot-disk-size "10G" \
- --boot-disk-type "pd-standard" \
- --boot-disk-device-name "instance-2"
+
+gcloud beta compute instances create instance-2 \
+  --zone=asia-east1-b \
+  --machine-type=n1-standard-1 \
+  --subnet=default \
+  --network-tier=PREMIUM \
+  --maintenance-policy=MIGRATE \
+  --service-account=865148399496-compute@developer.gserviceaccount.com \
+  --scopes=https://www.googleapis.com/auth/devstorage.read_only,https://www.googleapis.com/auth/logging.write,https://www.googleapis.com/auth/monitoring.write,https://www.googleapis.com/auth/servicecontrol,https://www.googleapis.com/auth/service.management.readonly,https://www.googleapis.com/auth/trace.append \
+  --tags=http-server,https-server --image=debian-10-buster-v20191210 \
+  --image-project=debian-cloud \
+  --boot-disk-size=10GB \
+  --boot-disk-type=pd-standard \
+  --boot-disk-device-name=instance-2 \
+  --reservation-affinity=any
 </pre>
 <pre>
  gcloud compute ssh instance-2 --zone asia-east1-b
@@ -47,10 +52,10 @@ gcloud compute instances create "instance-2" \
  </pre>
  ### 建立 instance template
  <pre>
- gcloud compute instance-templates create "instance-template-1" \
+gcloud compute instance-templates create "instance-template-1" \
  --machine-type "n1-standard-1" \
  --network "default" \
- --image "myimage" \
+ --image "myimage1" \
  --tags "http-server","https-server" \
  --boot-disk-size "10" \
  --boot-disk-type "pd-standard" \
@@ -58,10 +63,17 @@ gcloud compute instances create "instance-2" \
  </pre>
  ### 建立 instance group
  <pre>
- gcloud compute instance-groups managed create "instance-group-1" \
+gcloud compute instance-groups managed create instance-group-1 \
+ --base-instance-name=instance-group-1 \
+ --template=instance-template-1 \
+ --size=1 \
+ --zone=asia-east1-b
+
+gcloud beta compute instance-groups managed set-autoscaling "instance-group-1" \
  --zone "asia-east1-b" \
  --cool-down-period "60" \
  --max-num-replicas "10" \
- --min-num-eplicas "1" \
- --target-cpu-utilization "0.6"
+ --min-num-replicas "1" \
+ --target-cpu-utilization "0.6" \
+ --mode "on"
  </pre>
