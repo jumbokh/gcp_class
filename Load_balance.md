@@ -1,14 +1,19 @@
 ### 建立自己的 image
 #### 以 Debian 為例
+#### show available images
 <pre>
+gcloud compute images list
+</pre>
+<pre>
+
 gcloud compute instances create "instance-2" \
  --zone "asia-east1-b" \
  --machine-type "n1-standard-1" \
  --subnet "default" \
  --maintenance-policy "MIGRATE" \
- --image "debain-8-jessie-v20170327" \
+ --image "debain-10-buster-v20191210" \
  --image-project "debian-cloud" \
- --boot-disk-size "10" \
+ --boot-disk-size "10G" \
  --boot-disk-type "pd-standard" \
  --boot-disk-device-name "instance-2"
 </pre>
