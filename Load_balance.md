@@ -81,3 +81,17 @@ gcloud beta compute instance-groups managed set-autoscaling "instance-group-1" \
 ### STEP1 選擇 網路服務=>負載平衡
 ![負載平衡](images/Load_balance1.jpg)
 ### STEP2 幫你的 HTTP(S) Load Balancer 命名後， 點選 Backend 中的 "Create or select a backend service"
+![負載平衡](images/Load_balance2.jpg)
+![負載平衡](images/Load_balance3.jpg)
+![負載平衡](images/Load_balance4.jpg)
+### STEP3 設定 backend detail -- Health Check、Session affinity
+![負載平衡](images/Load_balance5.jpg)
+![負載平衡](images/Load_balance6.jpg)
+![負載平衡](images/Load_balance7.jpg)
+### STEP4 設定 Host 與 Path Rule
+![負載平衡](images/Load_balance8.jpg)
+### STEP5 設定 Frontend : Port 、 IP
+![負載平衡](images/Load_balance9.jpg)
+### STEP6 確認後送出建立
+![負載平衡](images/Load_balance10.jpg)
+
