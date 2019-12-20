@@ -1,3 +1,5 @@
+### 建立自己的 image
+#### 以 Debian 為例
 <pre>
 gcloud compute instances create "instance-2" \
  --zone "asia-east1-b" \
