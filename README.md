@@ -17,6 +17,7 @@
 
 * [懶人包】Google Cloud 基礎教學資源彙集](https://blog.gcp.expert/google-cloud-products-quick-start/)
 * [Firebase 是什麼 ? 集 APP 後端開發與分析於一身的強大工具！](https://blog.gcp.expert/firebase-gcp/)
+* [Get to Know Cloud Firestore #1](https://www.youtube.com/watch?time_continue=1&v=v_hR4K4auoQ&feature=emb_logo)
 ##
 ### Google CodeLab
 * [Get to know Firebase for web](https://codelabs.developers.google.com/codelabs/firebase-get-to-know-web/index.html?index=..%2F..index#0)
