@@ -31,14 +31,14 @@ var guestbookListener = null;
   // Your web app's Firebase configuration
  // Add Firebase project configuration object here
 const firebaseConfig = {
-  apiKey: "AIzaSyD_DqIkQpp8RSLP9r8mf5E81xdg5o1nKc0",
+  apiKey: "",
   authDomain: "fir-web-codelab-a9eab.firebaseapp.com",
   databaseURL: "https://fir-web-codelab-a9eab.firebaseio.com",
   projectId: "firebase-web-codelab",
   storageBucket: "firebase-web-codelab.appspot.com",
-  messagingSenderId: "1026935545936",
-  appId: "1:1026935545936:web:668ac5a69fd0d9c42f3155",
-  measurementId: "G-QLERZPTF2J"
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
