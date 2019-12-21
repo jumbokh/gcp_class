@@ -1,0 +1,10 @@
+{
+  "name": "js-5pf7ig",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@firebase/util": "^0.2.20",
+    "firebase": "^6.2.2",
+    "firebaseui": "^4.0.0"
+  }
+}
