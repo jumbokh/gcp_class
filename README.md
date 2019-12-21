@@ -11,6 +11,8 @@
 
 * [懶人包】Google Cloud 基礎教學資源彙集](https://blog.gcp.expert/google-cloud-products-quick-start/)
 * [Firebase 是什麼 ? 集 APP 後端開發與分析於一身的強大工具！](https://blog.gcp.expert/firebase-gcp/)
+##
+### Google CodeLab
 * [Using the Vision API with Python](https://codelabs.developers.google.com/codelabs/cloud-vision-api-python/index.html?index=..%2F..cloudai#0)
 * [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
 * [Google Code on GITHUB](https://github.com/googlecodelabs/tools)
