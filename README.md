@@ -8,6 +8,7 @@
 * LAB2: [負載平衡](https://github.com/jumbokh/gcp_class/blob/master/Load_balance.md)
 ##
 * LAB3: [FireBase: Get Start](https://codelabs.developers.google.com/codelabs/firebase-get-to-know-web/index.html?index=..%2F..index#0)
+        [完成檔](https://github.com/jumbokh/gcp_class/tree/master/Source/firebase-gtk-web-start-wendj1_Done)
 ## 書籍
 
 * ![機器學習開發神器！Google Cloud Platform 雲端開發應用超入門](images/Flag_F9361.jpg) [連結](https://www.flag.com.tw/books/product/F9361)
