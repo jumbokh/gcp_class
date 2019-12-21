@@ -10,5 +10,6 @@
 ## 參考連結
 
 * [懶人包】Google Cloud 基礎教學資源彙集](https://blog.gcp.expert/google-cloud-products-quick-start/)
+* [Firebase 是什麼 ? 集 APP 後端開發與分析於一身的強大工具！](https://blog.gcp.expert/firebase-gcp/)
 
 ##
