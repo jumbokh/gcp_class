@@ -17,4 +17,4 @@ Infrastructure Provider by means of customized SLAs.
 * 3. 資源可以彈性的依使用者調配(dynamically-configured)
 * 4. 服務提供的方式為使用量計價的付費模式(pay-by-use)
 * 5. 使用者與服務提供者簽訂一定的服務契約(SLA, Service Level Agreement)
-##### * 資料來源：全華圖書, 黃正傑, 雲端運算應用與服務
+##### * 資料來源：[全華圖書, 黃正傑, 雲端運算應用與服務](https://www.books.com.tw/products/0010801391)
