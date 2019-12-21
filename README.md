@@ -2,11 +2,12 @@
 ##
 #### ![課程](images/課程.jpg)
 ##
-## LAB1: [註冊 Google Cloud Plateform](https://github.com/jumbokh/gcp_class/blob/master/GCP_%E8%A8%BB%E5%86%8A%E5%8F%8A%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88.pptx)
+## Day1
+* LAB1: [註冊 Google Cloud Plateform](https://github.com/jumbokh/gcp_class/blob/master/GCP_%E8%A8%BB%E5%86%8A%E5%8F%8A%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88.pptx)
 ##
-## LAB2: [負載平衡](https://github.com/jumbokh/gcp_class/blob/master/Load_balance.md)
+* LAB2: [負載平衡](https://github.com/jumbokh/gcp_class/blob/master/Load_balance.md)
 ##
-## LAB3: [FireBase: Get Start](https://codelabs.developers.google.com/codelabs/firebase-get-to-know-web/index.html?index=..%2F..index#0)
+* LAB3: [FireBase: Get Start](https://codelabs.developers.google.com/codelabs/firebase-get-to-know-web/index.html?index=..%2F..index#0)
 ## 書籍
 
 * ![機器學習開發神器！Google Cloud Platform 雲端開發應用超入門](images/Flag_F9361.jpg) [連結](https://www.flag.com.tw/books/product/F9361)
