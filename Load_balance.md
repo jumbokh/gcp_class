@@ -31,7 +31,7 @@ gcloud beta compute instances create instance-2 \
  apt-get update -y && apt-get install nginx -y
  runlevel
  </pre>
- #### 確定 ngix 再重開時可以自動執行
+ #### 確定 nginx 再重開時可以自動執行
  <pre>
  ls -l /etc/rc5.d/
  reboot
