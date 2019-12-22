@@ -28,7 +28,7 @@ gcloud beta compute instances create instance-2 \
  gcloud compute ssh instance-2 --zone asia-east1-b
  
  sudo su -
- apt-get update -y && apt-get install ngix -y
+ apt-get update -y && apt-get install nginx -y
  runlevel
  </pre>
  #### 確定 ngix 再重開時可以自動執行
