@@ -57,7 +57,7 @@ gcloud beta compute instances create instance-2 \
 gcloud compute instance-templates create "instance-template-1" \
  --machine-type "n1-standard-1" \
  --network "default" \
- --image "myimage1" \
+ --image "myimage" \
  --tags "http-server","https-server" \
  --boot-disk-size "10" \
  --boot-disk-type "pd-standard" \
