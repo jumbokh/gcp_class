@@ -13,7 +13,7 @@
 ##
 ## Day 2
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
-* [GCP ML API](images/GCP_ML_info.png)
+* ![GCP ML API](images/GCP_ML_info.png)
 ## 書籍
 
 * ![機器學習開發神器！Google Cloud Platform 雲端開發應用超入門](images/Flag_F9361.jpg) [連結](https://www.flag.com.tw/books/product/F9361)
