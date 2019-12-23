@@ -14,6 +14,8 @@
 ##
 ## Day 2
 * [Google 機器學習三大服務](https://cloud.google.com/apis/docs/overview)
+* [用於Firebase的ML套件
+](https://firebase.google.com/docs/ml-kit?authuser=0)
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * ![GCP ML API](images/GCP_ML_info.png)
 ##
