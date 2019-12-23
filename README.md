@@ -13,6 +13,7 @@
 * LAB4: [練習題](https://codelabs.developers.google.com/codelabs/firebase-web/index.html?index=..%2F..index#0)
 ##
 ## Day 2
+* [Google Cloud API](https://cloud.google.com/apis/docs/overview)
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * ![GCP ML API](images/GCP_ML_info.png)
 ##
