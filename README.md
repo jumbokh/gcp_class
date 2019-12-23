@@ -5,6 +5,7 @@
 ## Day1
 * LAB1: [註冊 Google Cloud Plateform](https://github.com/jumbokh/gcp_class/blob/master/GCP_%E8%A8%BB%E5%86%8A%E5%8F%8A%E5%BB%BA%E7%AB%8B%E5%B0%88%E6%A1%88.pptx)
 ##
+* [[GCP]Google Cloud Platform架站(6) - 外部IP查詢與靜態IP設定](https://robarter.pixnet.net/blog/post/223287133-%5Bgcp%5Dgoogle%E9%9B%B2%E7%AB%AF%E6%9E%B6%E7%AB%99---%E5%A4%96%E9%83%A8ip%E6%9F%A5%E8%A9%A2%E8%88%87%E9%9D%9C%E6%85%8Bip%E8%A8%AD%E5%AE%9A)
 * LAB2: [負載平衡](https://github.com/jumbokh/gcp_class/blob/master/Load_balance.md)
 * [Creating a Virtual Machine](https://codelabs.developers.google.com/codelabs/cloud-create-a-vm/index.html?index=..%2F..index#0)
 ##
