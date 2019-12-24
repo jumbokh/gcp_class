@@ -17,6 +17,7 @@
 * [Google 機器學習三大服務](https://cloud.google.com/apis/docs/overview)
 * [Google Cloud Auto ML Prices](https://cloud.google.com/skus/?hl=zh_TW&_ga=2.32958715.-492626677.1577098418&_gac=1.213815654.1577098418.Cj0KCQiA6IHwBRCJARIsALNjViVJF6XIuFJD_Wvf0LluZbusR7aGAK8QYhLihR2ocuZIB8CTVGsgGcoaAgPfEALw_wcB&currency=USD&filter=auto+ml)
 * [APIs and Reference](https://cloud.google.com/natural-language/docs/apis)
+* [Cloud Speech-to-text API 指南](https://cloud.google.com/speech-to-text/docs/how-to)
 * [用於Firebase的ML套件
 ](https://firebase.google.com/docs/ml-kit?authuser=0)
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
