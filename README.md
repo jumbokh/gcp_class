@@ -24,6 +24,7 @@
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * [範例應用程式](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/speech/cloud-client)
 * ![GCP ML API](images/GCP_ML_info.png)
+* ![languageCode](images/language-code.JPG)
 
 ##
 ![定價](images/text-speech-price.JPG)
