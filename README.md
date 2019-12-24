@@ -22,7 +22,10 @@
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * ![GCP ML API](images/GCP_ML_info.png)
 ##
+![定價](images/text-speech-api.jpg)
 * LAB1:[Cloud speech to text API](https://github.com/jumbokh/gcp_class/blob/master/Google_text-to-speech-API.md)
+##
+* LAB2: [範例應用程式](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/speech/cloud-client)
 ##
 ## Day 3
 * [Using the Natural Language API with Python](https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3/index.html?index=..%2F..index#0)
