@@ -64,6 +64,14 @@ curl -s -H "Content-Type: application/json" \
     https://speech.googleapis.com/v1/speech:recognize \
     -d @sync-request.json
 </pre>
+#### Windows:
+##### 先下載安裝 curl，並在windows path 中, 增加 curl 指令位置
+#####  curl 官網: https://curl.haxx.se/windows/
+<pre>
+gcloud auth application-default print-access-token > token.json
+set ACCESS_TOKEN=[PATH].json
+curl -s -H "Content-Type: application/json" -H "Authorization: Bearer $ACCESS_TOKEN https://speech.googleapis.com/v1/speech:recognize -d @sync-request.json
+</pre>
 
 #### 錯誤一: 未啟用API
 <pre>
