@@ -117,6 +117,7 @@ jumbo@RPi4:~/src/gcp$ curl -s -H "Content-Type: application/json" \
 }
 jumbo@RPi4:~/src/gcp$
 </pre>
+![Done](images/GCP-speech-test.JPG)
   
   
   
