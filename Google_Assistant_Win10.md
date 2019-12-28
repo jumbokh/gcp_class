@@ -11,6 +11,7 @@
 ####        啟用 : Google Assistant API
 ![啟用](googleassistant/api-enable.JPG)
 ### STEP 6. 選擇建立憑證
+#### 選擇==>請幫我選擇
 ![憑證](googleassistant/select-cred.JPG)
 ### STEP 7. 在建立憑證頁面中選擇:
 * 憑證類型: Google Assistant API
@@ -44,19 +45,28 @@ c:\Users\benq4\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2
 </pre>
 ### STEP 17. 複製檔案名稱 (client_id.json)  (因為有時產生的檔名很長)
 ### STEP 18. 回 windows 命令視窗
+#### 產生授權檔
+![產生授權檔](googleassistant/authcode-input.JPG)
 ### 輸入: 
 <pre>
 google-oauthlib-tool --client-secrets D:\GoogleAssistant\client_id.json --scope https://www.googleapis.com/auth/assistant-sdk-prototype --save --headless
 </pre>
 ### STEP 19. 複製視窗中顯示的授權要求頁面路徑
 ### STEP 20. 開啟授權要求頁面，並選擇欲授權的使用者
+![選擇使用者帳號](googleassistant/select-auth-user.JPG)
 ### STEP 21. 於下一個頁面中按 允許
+![確認授權者](googleassistant/auth-confirm.JPG)
 ### STEP 22. Google 會給一段授權碼， 將其複製，然後轉至 Windows命令視窗
+![複製授權碼](googleassistant/auth-code-get.JPG)
 ### STEP 23. 貼上授權碼，將會儲存一個憑證檔案至系統中
+![產生授權檔](googleassistant/saved-crend.JPG)
 ### STEP 24. 測試。
 ###          輸入: python -m googlesamples.assistant.grpc.audio_helpers
+![測試](googleassistant/test-google-assist.JPG)
 ### STEP 25. 取得 STEP4 中建立的專案 id， 如: august-key-263401
 ###          於 windows指令 視窗中，輸入:
+#### 註冊裝置 id, 必須不存在系統中，所以我的是 "GAHOME-01"，你必須另外再取一個，否則系統會報錯
+![註冊裝置 id](googleassistant/register-dev.JPG)
 * cd d:\GoogleAssistant
 <pre>
 googlesamples-assistant-devicetool --project-id august-key-263401 register-model --manufacturer “Assistant SDK developer” --product-name “Assistant SDK light” --type LIGHT --model “GAHOME-01”
@@ -67,7 +77,7 @@ googlesamples-assistant-devicetool --project-id august-key-263401 register-model
 <pre>
 python -m googlesamples.assistant.grpc.pushtotalk --device-model-id “GAHOME-01” --project-id august-key-263401
 </pre>
-
+![push to talk 測試](googleassistant/push-to-talk.JPG)
 
 
 
