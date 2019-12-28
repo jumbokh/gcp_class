@@ -38,7 +38,7 @@
 * [Your own Raspberry Pi Google Assistant](https://medium.com/@janne.spijkervet/your-own-raspberry-pi-google-assistant-1434be9eac99)
 * [How to Get Google Assistant for PC](https://www.lifewire.com/google-assistant-on-windows-4628292)
 ##
-* LAB4: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize)
+* LAB4: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize#speech-sync-recognize-python)
 
 ##
 ## Day 3
