@@ -29,6 +29,7 @@
 ##
 ![定價](images/text-speech-price.JPG)
 * LAB1: [Good Cloud speech API](https://cloud.google.com/speech-to-text/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-zh-dr-bkws-all-super-trial-e-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_263264846828-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+EXA+%7C+ML+%7C+1:1+%7C+TW+%7C+zh+%7C+Speech+%7C+google+cloud+speech+api+%7C+en-KWID_43700031887751063-kwd-203288730727&userloc_9040321&utm_term=KW_google%20cloud%20speech%20api&gclid=CjwKCAiA9JbwBRAAEiwAnWa4Q2L6JNb6JogBial2wAr81VYZ5u4OrRugpr-9YzFBBQZEU33BTpu_OxoC_gwQAvD_BwE)
+* LAB1(參考): [Machine Learning(一)：Cloud Speech API 介紹與實作](https://blog.gcp.expert/machine-learning-cloud-speech-api/)
 ##
 * LAB2:[Cloud speech to text API](https://github.com/jumbokh/gcp_class/blob/master/Google_text-to-speech-API.md)
 ##
