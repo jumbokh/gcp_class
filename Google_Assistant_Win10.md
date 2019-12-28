@@ -6,10 +6,12 @@
 ### STEP 2. 開啟 windows 檔案總管，建立新目錄，如: D:\GoogleAssistant
 ### STEP 3. 註冊/登入 [Google Cloud Plateform](https://cloud.google.com)
 ### STEP 4. 建立新專案: WinGoogleAssistant
+![新增專案](googleassistant/setup-prj.JPG)
 ### STEP 5. 開啟 [Google Assistant API](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview)
 ####        啟用 : Google Assistant API
 ![啟用](googleassistant/api-enable.JPG)
 ### STEP 6. 選擇建立憑證
+![憑證](googleassistant/select-cred.JPG)
 ### STEP 7. 在建立憑證頁面中選擇:
 * 憑證類型: Google Assistant API
 * API 呼叫來源: 其他使用者介面(例如 Windows、CLI工具)
@@ -18,8 +20,10 @@
 #### 設定 OAuth 畫面
 ### STEP 8. 設定同意畫面
 ### STEP 9. 選擇 User Type
+![OAuth 同意畫面](googleassistant/oAuth-page.JPG)
 * 內部 (G-suit 使用者 ) ==> 可直接按 SAVE
 * 外部 : 建立憑證
+![OAuth 同意畫面](googleassistant/create-oauth-1.JPG)
 * 1. 應用程式名稱: WinGoogleAssistant-01
 * 2. 支援電子郵件: <your@mail>
 * 3. 已授權網域: <your.domain> or google.com
