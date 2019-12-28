@@ -16,6 +16,7 @@
 ## Day 2
 * [AI & Machine Learning](https://cloud.google.com/products/ai/?hl=zh-tw#more-ai-resources)
 * [Google 機器學習三大服務](https://cloud.google.com/apis/docs/overview)
+* [Google 機器學習三大服務：AutoML, Cloud ML Engine, ML API 介紹與比較](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * [Google Cloud Auto ML Prices](https://cloud.google.com/skus/?hl=zh_TW&_ga=2.32958715.-492626677.1577098418&_gac=1.213815654.1577098418.Cj0KCQiA6IHwBRCJARIsALNjViVJF6XIuFJD_Wvf0LluZbusR7aGAK8QYhLihR2ocuZIB8CTVGsgGcoaAgPfEALw_wcB&currency=USD&filter=auto+ml)
 * [APIs and Reference](https://cloud.google.com/natural-language/docs/apis)
 * [Actions on Google: The developer platform for the Google Assistant.](https://developers.google.com/assistant)
