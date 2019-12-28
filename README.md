@@ -19,12 +19,13 @@
 * [Google Cloud Auto ML Prices](https://cloud.google.com/skus/?hl=zh_TW&_ga=2.32958715.-492626677.1577098418&_gac=1.213815654.1577098418.Cj0KCQiA6IHwBRCJARIsALNjViVJF6XIuFJD_Wvf0LluZbusR7aGAK8QYhLihR2ocuZIB8CTVGsgGcoaAgPfEALw_wcB&currency=USD&filter=auto+ml)
 * [APIs and Reference](https://cloud.google.com/natural-language/docs/apis)
 * [Cloud Speech-to-text API 指南](https://cloud.google.com/speech-to-text/docs/how-to)
-* [用於Firebase的ML套件
-](https://firebase.google.com/docs/ml-kit?authuser=0)
+* [用於Firebase的ML套件](https://firebase.google.com/docs/ml-kit?authuser=0)
 * [GCP ML API](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * [範例應用程式](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/speech/cloud-client)
 * ![GCP ML API](images/GCP_ML_info.png)
 * ![languageCode](images/language-code.JPG)
+* [Your own Raspberry Pi Google Assistant](https://medium.com/@janne.spijkervet/your-own-raspberry-pi-google-assistant-1434be9eac99)
+* [How to Get Google Assistant for PC](https://www.lifewire.com/google-assistant-on-windows-4628292)
 
 ##
 ![定價](images/text-speech-price.JPG)
