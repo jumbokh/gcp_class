@@ -14,6 +14,7 @@
 #### 選擇==>請幫我選擇
 ![憑證](googleassistant/select-cred.JPG)
 ### STEP 7. 在建立憑證頁面中選擇:
+![OAuth 同意畫面](googleassistant/create-oauth-1.JPG)
 * 憑證類型: Google Assistant API
 * API 呼叫來源: 其他使用者介面(例如 Windows、CLI工具)
 * 你需要存取什麼資料: 使用者資料
