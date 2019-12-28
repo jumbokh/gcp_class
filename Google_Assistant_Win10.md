@@ -7,6 +7,7 @@
 ### STEP 4. 建立新專案: WinGoogleAssistant
 ### STEP 5. 開啟 [Google Assistant API](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview)
 ####        啟用 : Google Assistant API
+![啟用](googleassistant/api-enable.JPG)
 ### STEP 6. 選擇建立憑證
 ### STEP 7. 在建立憑證頁面中選擇:
 * 憑證類型: Google Assistant API
