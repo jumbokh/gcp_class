@@ -16,6 +16,8 @@
 ## Day 2
 * [AI & Machine Learning](https://cloud.google.com/products/ai/?hl=zh-tw#more-ai-resources)
 * [Google 機器學習三大服務](https://cloud.google.com/apis/docs/overview)
+* [vision API](https://cloud.google.com/vision/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-zh-dr-bkws-all-super-trial-e-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_263273745739-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+EXA+%7C+ML+%7C+1:1+%7C+TW+%7C+zh+%7C+Vision+%7C+google+cloud+vision+api+%7C+en-KWID_43700031887751273-kwd-203288731207&userloc_9040321&utm_term=KW_google%20cloud%20vision%20api&gclid=Cj0KCQiAl5zwBRCTARIsAIrukdPS_OnI7B_o8YEV4n--CYIOymZVVFKaFK-fzRH0rh9wIFQ-9RDaiowaAtnVEALw_wcB)
+* [NL API](https://cloud.google.com/natural-language/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-en-dr-bkws-all-all-trial-b-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_252375343168-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+BMM+%7C+ML+%7C+M:1+%7C+TW+%7C+en+%7C+Language+%7C+API-KWID_43700036898841807-kwd-490168509258&userloc_9040321&utm_term=KW_%2Bgoogle%20%2Bnl%20%2Bapi&gclid=Cj0KCQiAl5zwBRCTARIsAIrukdMj14wWmIR3rHXVslZigPlxh-uQ1kSEu9-tVQ9rJUKmE0XNASDdQ2YaAgUDEALw_wcB)
 * [Google 機器學習三大服務：AutoML, Cloud ML Engine, ML API 介紹與比較](https://blog.gcp.expert/google-cloud-automl-ml-engine-ml-api/)
 * [Google Cloud Auto ML Prices](https://cloud.google.com/skus/?hl=zh_TW&_ga=2.32958715.-492626677.1577098418&_gac=1.213815654.1577098418.Cj0KCQiA6IHwBRCJARIsALNjViVJF6XIuFJD_Wvf0LluZbusR7aGAK8QYhLihR2ocuZIB8CTVGsgGcoaAgPfEALw_wcB&currency=USD&filter=auto+ml)
 * [APIs and Reference](https://cloud.google.com/natural-language/docs/apis)
