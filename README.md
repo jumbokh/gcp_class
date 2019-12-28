@@ -27,13 +27,15 @@
 
 ##
 ![定價](images/text-speech-price.JPG)
-* LAB1:[Cloud speech to text API](https://github.com/jumbokh/gcp_class/blob/master/Google_text-to-speech-API.md)
+* LAB1: [Good Cloud speech API](https://cloud.google.com/speech-to-text/?hl=zh-tw&utm_source=google&utm_medium=cpc&utm_campaign=japac-TW-all-zh-dr-bkws-all-super-trial-e-dr-1003987&utm_content=text-ad-none-none-DEV_c-CRE_263264846828-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+T1+%7C+EXA+%7C+ML+%7C+1:1+%7C+TW+%7C+zh+%7C+Speech+%7C+google+cloud+speech+api+%7C+en-KWID_43700031887751063-kwd-203288730727&userloc_9040321&utm_term=KW_google%20cloud%20speech%20api&gclid=CjwKCAiA9JbwBRAAEiwAnWa4Q2L6JNb6JogBial2wAr81VYZ5u4OrRugpr-9YzFBBQZEU33BTpu_OxoC_gwQAvD_BwE)
 ##
-* LAB2:[在 Windows 下使用 Google Assistant](https://github.com/jumbokh/gcp_class/blob/master/Google_Assistant_Win10.md)
+* LAB2:[Cloud speech to text API](https://github.com/jumbokh/gcp_class/blob/master/Google_text-to-speech-API.md)
+##
+* LAB3:[在 Windows 下使用 Google Assistant](https://github.com/jumbokh/gcp_class/blob/master/Google_Assistant_Win10.md)
 * [Your own Raspberry Pi Google Assistant](https://medium.com/@janne.spijkervet/your-own-raspberry-pi-google-assistant-1434be9eac99)
 * [How to Get Google Assistant for PC](https://www.lifewire.com/google-assistant-on-windows-4628292)
 ##
-* LAB3: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize)
+* LAB4: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize)
 
 ##
 ## Day 3
