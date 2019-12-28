@@ -24,14 +24,16 @@
 * [範例應用程式](https://github.com/GoogleCloudPlatform/python-docs-samples/tree/master/speech/cloud-client)
 * ![GCP ML API](images/GCP_ML_info.png)
 * ![languageCode](images/language-code.JPG)
-* [Your own Raspberry Pi Google Assistant](https://medium.com/@janne.spijkervet/your-own-raspberry-pi-google-assistant-1434be9eac99)
-* [How to Get Google Assistant for PC](https://www.lifewire.com/google-assistant-on-windows-4628292)
 
 ##
 ![定價](images/text-speech-price.JPG)
 * LAB1:[Cloud speech to text API](https://github.com/jumbokh/gcp_class/blob/master/Google_text-to-speech-API.md)
 ##
-* LAB2: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize)
+* LAB2:[在 Windows 下使用 Google Assistant](https://github.com/jumbokh/gcp_class/blob/master/Google_Assistant_Win10.md)
+* [Your own Raspberry Pi Google Assistant](https://medium.com/@janne.spijkervet/your-own-raspberry-pi-google-assistant-1434be9eac99)
+* [How to Get Google Assistant for PC](https://www.lifewire.com/google-assistant-on-windows-4628292)
+##
+* LAB3: [轉錄短音訊檔案](https://cloud.google.com/speech-to-text/docs/sync-recognize)
 
 ##
 ## Day 3
