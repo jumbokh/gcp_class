@@ -11,6 +11,7 @@
 ####        啟用 : Google Assistant API
 ![啟用](googleassistant/api-enable.JPG)
 ### STEP 6. 選擇建立憑證
+![專案建立](googleassistant/google-assistant-api.JPG)
 #### 選擇==>請幫我選擇
 ![憑證](googleassistant/select-cred.JPG)
 ### STEP 7. 在建立憑證頁面中選擇:
