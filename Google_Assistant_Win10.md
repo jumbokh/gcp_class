@@ -1,8 +1,9 @@
 ## 在 WIN10 PC 上安裝 Google Assistant 
 ### STEP1. 下載並安裝 python 3.7.6
 * [下載頁面](https://www.python.org/downloads/windows/)
-#### [Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe)
-### STEP 2. 建立新目錄: GoogleAssistant
+#### [下載 python3.7 : Download Windows x86-64 executable installer](https://www.python.org/ftp/python/3.7.6/python-3.7.6-amd64.exe)
+#### 或是: ![Windows python 3.7](googleassistant/get-py.JPG)
+### STEP 2. 開啟 windows 檔案總管，建立新目錄，如: D:\GoogleAssistant
 ### STEP 3. 註冊/登入 [Google Cloud Plateform](https://cloud.google.com)
 ### STEP 4. 建立新專案: WinGoogleAssistant
 ### STEP 5. 開啟 [Google Assistant API](https://console.developers.google.com/apis/api/embeddedassistant.googleapis.com/overview)
