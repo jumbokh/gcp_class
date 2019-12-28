@@ -54,6 +54,7 @@
 * [Firebase 是什麼 ? 集 APP 後端開發與分析於一身的強大工具！](https://blog.gcp.expert/firebase-gcp/)
 * [Get to Know Cloud Firestore #1](https://www.youtube.com/watch?time_continue=1&v=v_hR4K4auoQ&feature=emb_logo)
 * [The 7 Steps of Machine Learning (AI Adventures)](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&feature=emb_logo)
+* [From Zero to ML on Google Cloud Platform (Cloud Next '18)](https://www.youtube.com/watch?v=QU7_eU8HzAQ)
 ##
 ### Google CodeLab
 * [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
