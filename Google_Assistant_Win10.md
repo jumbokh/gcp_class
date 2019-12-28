@@ -34,8 +34,9 @@
 * 5. 應用程式隱私權政策連結: <https://your.domain> or https://google.com
 * 6. 應用程式服務條款連結: <https://your.domain> or https://google.com
 ### STEP 10. 建立憑證==> 請幫我選擇 (其他選項同 STEP7) ==> 將憑證新增至您的專案 
+![OAuth 同意畫面](googleassistant/create-oauth-1.JPG)
 ### STEP 11. 輸入名稱: WGACrentials1 ==> 建立 OAuth 用戶端 ID
-![OAuth 同意畫面](googleassistant/oAuth-page.JPG)
+
 ### STEP 12. 選擇 ==> 下載憑證 ==> 完成
 
 ![完成設定畫面](googleassistant/create-credential-done.JPG)
