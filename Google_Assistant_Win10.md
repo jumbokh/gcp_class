@@ -21,6 +21,7 @@
 * 選擇: 我需要那些憑證
 #### 設定 OAuth 畫面
 ### STEP 8. 設定同意畫面
+![OAuth 同意畫面](googleassistant/oAuth-agree.JPG)
 ### STEP 9. 選擇 User Type
 ![OAuth 同意畫面](googleassistant/oAuth-page.JPG)
 * 內部 (G-suit 使用者 ) ==> 可直接按 SAVE
@@ -36,7 +37,7 @@
 ### STEP 11. 輸入名稱: WGACrentials1 ==> 建立 OAuth 用戶端 ID
 ![OAuth 同意畫面](googleassistant/oAuth-page.JPG)
 ### STEP 12. 選擇 ==> 下載憑證 ==> 完成
-![OAuth 同意畫面](googleassistant/oAuth-agree.JPG)
+
 ![完成設定畫面](googleassistant/create-credential-done.JPG)
 ### STEP 13. 複製 client_id.json (剛剛下載的憑證) 至 STEP2 所建立的目錄
 ### STEP 14. [開啟 windows 命令視窗](https://www.lifewire.com/how-to-open-command-prompt-2618089)
