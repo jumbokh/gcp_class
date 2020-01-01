@@ -3,6 +3,7 @@
 #### ![課程](images/課程.jpg)
 ##
 ## Day 3
+* LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 #### 參考:
 * [doc: Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=zh_TW)
