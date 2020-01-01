@@ -3,6 +3,7 @@
 #### ![課程](images/課程.jpg)
 ##
 * [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw)
+* [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
 ## Day 3
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
