@@ -6,6 +6,7 @@
 * [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
 ## Day 3
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
+       [LAB1 參考](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 #### 參考:
 * [Deep learning in Computer Vision](http://gg.gg/bcc3t)
