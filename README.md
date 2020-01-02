@@ -16,6 +16,8 @@
 
 #### 參考:
 * [IMDb 資料集](https://www.imdb.com/)
+* [用RNN做情意分析: colab ipynb](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/NLP/04_1_%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90%20%281%29.ipynb)
+* [CUDA Driver](https://drive.google.com/open?id=1feB4md3IuopiLIev70rRY9iY-niSKeLz)
 * [Deep learning in Computer Vision](http://gg.gg/bcc3t)
 * [doc: Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=zh_TW)
 * [ppt:朝樂門老師](https://github.com/jumbokh/gcp_class/blob/master/NLP/41%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.pptx)
