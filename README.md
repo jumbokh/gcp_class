@@ -10,6 +10,8 @@
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 #### ==> [LAB1 參考](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
+##
+* LAB2 [試用 Cloud vision API](https://cloud.google.com/vision/docs/drag-and-drop?hl=zh-tw)
 
 #### 參考:
 * [IMDb 資料集](https://www.imdb.com/)
