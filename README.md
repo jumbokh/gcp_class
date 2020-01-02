@@ -12,6 +12,7 @@
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 
 #### 參考:
+* [IMDb 資料集](https://www.imdb.com/)
 * [Deep learning in Computer Vision](http://gg.gg/bcc3t)
 * [doc: Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=zh_TW)
 * [ppt:朝樂門老師](https://github.com/jumbokh/gcp_class/blob/master/NLP/41%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.pptx)
