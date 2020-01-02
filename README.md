@@ -8,6 +8,7 @@
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 #### 參考:
+* [Deep learning in Computer Vision](http://gg.gg/bcc3t)
 * [doc: Cloud Natural Language API](https://cloud.google.com/natural-language/?hl=zh_TW)
 * [ppt:朝樂門老師](https://github.com/jumbokh/gcp_class/blob/master/NLP/41%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.pptx)
 * [图书《Python编程：从数据分析到数据科学》的配套资源](https://github.com/LemenChao/PythonFromDAToDS)
