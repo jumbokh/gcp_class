@@ -7,8 +7,9 @@
 * [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
 * [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
 ## Day 3
+## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
+##
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
-#### ==> [LAB1 參考](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 ##
 * LAB2 [試用 Cloud vision API](https://cloud.google.com/vision/docs/drag-and-drop?hl=zh-tw)
