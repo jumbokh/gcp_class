@@ -15,6 +15,7 @@
 * [GCP 機器學習(2) – Natural Language API 應用實例](https://blog.gcp.expert/machine-learning-natural-language-api/)
 * [Using the Natural Language API with Python](https://codelabs.developers.google.com/codelabs/cloud-natural-language-python3/index.html?index=..%2F..index#0)
 * [ppt: 語音聊天機器人](https://github.com/jumbokh/gcp_class/blob/master/NLP/FT700-ch15.ppt)
+* [動手玩玩 GOOGLE CLOUD VISION API](https://www.mile.cloud/zh-hant/google-cloud-vision-api/)
 ##
 ## Day 2
 * [speech to text](https://cloud.google.com/speech-to-text/docs/quickstart-protocol)
