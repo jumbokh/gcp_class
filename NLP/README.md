@@ -1,4 +1,4 @@
-## 檔案說明
+## 自然語言處理(Natural Language Processing，縮寫NLP)，檔案說明
 ##
 * [04_1_用RNN做情意分析 (1).ipynb](https://github.com/jumbokh/gcp_class/blob/master/NLP/04_1_%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90%20(1).ipynb)
 #### Keras + Tensorflow 使用 CUDA Driver、Google Colab GPU 跑 IMDB 電影數據庫，進行情意分析
