@@ -1,0 +1,3 @@
+[console_scripts]
+google-assistant-demo = google.assistant.library.__main__:main
+

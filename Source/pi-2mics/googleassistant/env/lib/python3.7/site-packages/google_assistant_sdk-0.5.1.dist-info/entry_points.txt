@@ -1,0 +1,6 @@
+[console_scripts]
+googlesamples-assistant-audiotest = googlesamples.assistant.grpc.audio_helpers:main
+googlesamples-assistant-devicetool = googlesamples.assistant.grpc.devicetool:main
+googlesamples-assistant-hotword = googlesamples.assistant.library.hotword:main [samples]
+googlesamples-assistant-pushtotalk = googlesamples.assistant.grpc.pushtotalk:main [samples]
+
