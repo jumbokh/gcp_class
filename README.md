@@ -8,8 +8,8 @@
 * [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
 ## Day 3
 ## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
+## [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
 ##
-* [Vision AI](https://cloud.google.com/vision/?hl=zh_TW)
 * LAB1 [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 ##
