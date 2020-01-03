@@ -11,6 +11,7 @@
 ### [LAB1: 試用 Cloud vision API](https://cloud.google.com/vision/docs/drag-and-drop?hl=zh-tw)
 ### [LAB2: Cloud AutoML vision quick start](https://blog.gcp.expert/cloud-automl-vision-quick-start/)
 ### [LAB3: 一秒辨識屈中恆、宋少卿、鈕承澤：就用 Cloud AutoML Vision！](https://blog.gcp.expert/cloud-automl-vision-application-1/)
+* [resources](https://drive.google.com/open?id=1VPpYnA1PKA3jtUEZ3dKF0GOtB2eeHpXa)
 #### 抓圖說明:
 ### 安裝
 * [說明](https://openingsource.org/2010/zh-tw/)
