@@ -11,3 +11,14 @@
 ### [LAB1: 試用 Cloud vision API](https://cloud.google.com/vision/docs/drag-and-drop?hl=zh-tw)
 ### [LAB2: Cloud AutoML vision quick start](https://blog.gcp.expert/cloud-automl-vision-quick-start/)
 ### [LAB3: 一秒辨識屈中恆、宋少卿、鈕承澤：就用 Cloud AutoML Vision！](https://blog.gcp.expert/cloud-automl-vision-application-1/)
+#### 抓圖說明:
+### 安裝
+<pre>
+pip install google_images_download
+git clone https://github.com/hardikvasa/google-images-download.git
+cd google-images-download 
+python setup.py install
+</pre>
+* googleimagesdownload -k "鈕承澤" -f png -l 20
+* googleimagesdownload -k "屈中恆" -f png -l 20
+* googleimagesdownload -k "\宋少卿" -f png -l 20
