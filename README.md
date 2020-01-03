@@ -10,7 +10,7 @@
 ## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 ## [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
 ##
-* LAB [快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
+* LAB [Natural Language API 快速入門：使用用戶端程式庫](https://cloud.google.com/natural-language/docs/quickstart-client-libraries?hl=zh-tw)
 * [Natural Language](https://cloud.google.com/natural-language/?hl=zh_TW)
 ##
 
