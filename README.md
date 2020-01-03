@@ -2,7 +2,7 @@
 ##
 #### ![課程](images/課程.jpg)
 ##
-* [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1t9CHzd1k4M9XEtVNBh_EJ4jdzdz56n0Z)
+* [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
 * [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
 * [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
 * [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
