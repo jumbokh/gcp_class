@@ -26,11 +26,11 @@ set REGION_NAME="us-central1"
 <pre>
 gsutil mb -p $PROJECT_ID -c regional -l $REGION_NAME gs://$PROJECT_ID-vcm/
 </pre>
-#### 12. 複製資料集至你的 Google Cloud Storage bucket
+#### 複製資料集至你的 Google Cloud Storage bucket
 <pre>
 gsutil -m cp -R gs://cloud-ml-data/img/flower_photos/  gs://$PROJECT_ID-vcm/img/
 </pre>
-#### 13. 資料集必須為每個影像檔案準備清單檔及標示資料，詳: [如何準備你的資料集](https://cloud.google.com/vision/automl/docs/prepare)
+#### 資料集必須為每個影像檔案準備清單檔及標示資料，詳: [如何準備你的資料集](https://cloud.google.com/vision/automl/docs/prepare)
 <pre>
 gsutil cat gs://$PROJECT_ID-vcm/img/flower_photos/all_data.csv | sed "s:cloud-ml-data:$PROJECT_ID-vcm:" > all_data.csv
 </pre>
