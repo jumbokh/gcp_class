@@ -1,3 +1,4 @@
+## [Natural Language API 基本資訊](https://cloud.google.com/natural-language/docs/basics?hl=zh-tw)
 ## 自然語言處理(Natural Language Processing，縮寫NLP)，檔案說明
 ##
 * [04_1_用RNN做情意分析 (1).ipynb](https://github.com/jumbokh/gcp_class/blob/master/NLP/04_1_%E7%94%A8RNN%E5%81%9A%E6%83%85%E6%84%8F%E5%88%86%E6%9E%90%20(1).ipynb)
