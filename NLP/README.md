@@ -31,5 +31,5 @@
 #### GCP ， Natural Language API Quick Start Example III
 ##
 
-* [E-Book](https://drive.google.com/open?id=1Qiq2uTIAX4y71kaxyCaT5-dTsHqZkaRX)
+
 
