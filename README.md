@@ -9,6 +9,7 @@
 * [使用 SDK 的 gsutil](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
 * gs://cloud-samples-data/language
 * gsutil cp gs://cloud-samples-data/language/* gs://[Your-bucket]
+* [AutoML Vision](https://cloud.google.com/vision/automl/docs/create-datasets?hl=zh-TW#create-dataset)
 ## Day 3
 ## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 ## [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
