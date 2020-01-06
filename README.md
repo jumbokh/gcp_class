@@ -3,9 +3,12 @@
 #### ![課程](images/課程.jpg)
 ##
 ## Day 5
-### Tensorflow: 
+### Tensorflow: 文字辨識、車牌辨識應用
+* [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
+
+##
 ## Day 4
-### Tensorflow 文件
+### Tensorflow: 環境建置、人臉辨識應用
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
 * [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/?hl=zh-tw#id=9423259f-e423-4c0a-a728-fc4d00574902)
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
