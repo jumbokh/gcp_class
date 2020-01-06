@@ -2,6 +2,12 @@
 ##
 #### ![課程](images/課程.jpg)
 ##
+## Day 4
+### Tensorflow 文件
+* [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
+* [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/?hl=zh-tw#id=9423259f-e423-4c0a-a728-fc4d00574902)
+
+##
 * [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
 * [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
 * [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
