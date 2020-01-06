@@ -2,6 +2,7 @@
 ##
 #### ![課程](images/課程.jpg)
 ##
+* [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/?hl=zh-tw#id=9423259f-e423-4c0a-a728-fc4d00574902)
 ## Python 開發環境建置及 Google Cloud SDK
 * [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
 * [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
@@ -17,12 +18,13 @@
 ## Day 5
 ### Tensorflow: 文字辨識、車牌辨識應用
 * [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
+* [實作基於 tensorflow 和 CNN 的車牌辨識系統](https://github.com/sapphirelin/re-deep-anpr)
 
 ##
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
+* [視覺辨識課程](https://github.com/jumbokh/cv_face)
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
-* [Google Cloud Platform Pricing Calculator](https://cloud.google.com/products/calculator/?hl=zh-tw#id=9423259f-e423-4c0a-a728-fc4d00574902)
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
 
 
