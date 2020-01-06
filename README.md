@@ -26,6 +26,7 @@
 * [視覺辨識課程](https://github.com/jumbokh/cv_face)
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
+* [如何在 TensorFlow 使用深度學習建立臉部辨識](https://blog.gcp.expert/tensorflow-facial-recognition-1/)
 
 
 
