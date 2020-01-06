@@ -2,6 +2,16 @@
 ##
 #### ![課程](images/課程.jpg)
 ##
+## Python 開發環境建置及 Google Cloud SDK
+* [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
+* [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
+* [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
+* [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
+* [使用 SDK 的 gsutil](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
+* gs://cloud-samples-data/language
+* gsutil cp gs://cloud-samples-data/language/* gs://[Your-bucket]
+* [AutoML Vision](https://cloud.google.com/vision/automl/docs/create-datasets?hl=zh-TW#create-dataset)
+##
 ## Day 5
 ### Tensorflow: 文字辨識、車牌辨識應用
 * [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
@@ -14,15 +24,7 @@
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
 
 
-##
-* [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
-* [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
-* [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
-* [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
-* [使用 SDK 的 gsutil](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=zh-tw)
-* gs://cloud-samples-data/language
-* gsutil cp gs://cloud-samples-data/language/* gs://[Your-bucket]
-* [AutoML Vision](https://cloud.google.com/vision/automl/docs/create-datasets?hl=zh-TW#create-dataset)
+
 ## Day 3
 ## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
 ## [Cloud Vision 電腦視覺實戰](https://github.com/jumbokh/gcp_class/tree/master/VISION)
