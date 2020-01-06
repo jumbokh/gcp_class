@@ -12,6 +12,8 @@
 * gsutil cp gs://cloud-samples-data/language/* gs://[Your-bucket]
 * [AutoML Vision](https://cloud.google.com/vision/automl/docs/create-datasets?hl=zh-TW#create-dataset)
 ##
+* [輕鬆學會 Google TensorFlow 2.0 人工智慧深度學習實作開發](https://github.com/taipeitechmmslab/MMSLAB-TF2)
+##
 ## Day 5
 ### Tensorflow: 文字辨識、車牌辨識應用
 * [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
