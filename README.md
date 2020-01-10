@@ -27,8 +27,6 @@
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
 * [如何在 TensorFlow 使用深度學習建立臉部辨識一](https://blog.gcp.expert/tensorflow-facial-recognition-1/)
 * [IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb](https://github.com/jumbokh/cv_face/blob/master/src/IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb)
-* [如何在 TensorFlow 使用深度學習建立臉部辨識二](https://blog.gcp.expert/tensorflow-facial-recognition-2/)
-* [如何在 TensorFlow 使用深度學習建立臉部辨識三](https://blog.gcp.expert/tensorflow-facial-recognition-3/)
 * [人臉辨識 -- 使用 Darknet](https://github.com/jumbokh/cv_face/tree/master/opencv/day2)
 * [人臉辨識 -- 使用 face recognition](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
@@ -38,6 +36,8 @@
 ### 參考
 * [視覺辨識課程](https://github.com/jumbokh/cv_face)
 * [人臉辨識(Face recognition) 解析與實作](https://medium.com/life-is-fantistic/%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98-face-recognition-cffcec53a544)
+* [如何在 TensorFlow 使用深度學習建立臉部辨識二](https://blog.gcp.expert/tensorflow-facial-recognition-2/)
+* [如何在 TensorFlow 使用深度學習建立臉部辨識三](https://blog.gcp.expert/tensorflow-facial-recognition-3/)
 
 
 
