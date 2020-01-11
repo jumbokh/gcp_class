@@ -30,6 +30,7 @@
 * [Basic](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/Basics%20of%20TensorFlow%20Programming-20180809.ipynb) {[source](https://github.com/jumbokh/gcp_class/blob/master/Source/Basics%20of%20TensorFlow%20Programming-20180809.ipynb)}
 * [MNIST](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20MNIST%20-%2020181008.ipynb) {[Source](https://github.com/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20MNIST%20-%2020181008.ipynb)}
 * [CIFAR10](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20CIFAR10%20-%2020181026.ipynb) {[Source](https://github.com/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20CIFAR10%20-%2020181026.ipynb)}
+* [Tensorflow 2.0 初學者入門 colab](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/zh-cn/tutorials/quickstart/beginner.ipynb?hl=zh-cn#scrollTo=F7dTAzgHDUh7)
 #### Lab
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
 * [如何在 TensorFlow 使用深度學習建立臉部辨識一](https://blog.gcp.expert/tensorflow-facial-recognition-1/)
