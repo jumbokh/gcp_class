@@ -41,7 +41,8 @@ sudo pip3 install tensorflow==2.0.0.b1
 
 </pre>
 #### Tensorflow code
-##### Hello World!
+##### Hello World! code1: {[coma-test.py](https://github.com/jumbokh/gcp_class/blob/master/Source/soma-test.py)},  
+#####              code2: {[nHello.py](https://github.com/jumbokh/gcp_class/blob/master/Source/nHello.py)}
 <pre>
 # tensorflow 1.x
 import tensorflow as tf
