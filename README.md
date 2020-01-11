@@ -34,7 +34,7 @@
 ####
 * [Quick Start: Distributed Training on the Oxford-IIIT Pets Dataset on Google Cloud](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md)
 ### Book
-! [Book](https://img12.360buyimg.com/n1/jfs/t18118/208/806643351/595772/1a32b251/5aab1e84N59164019.jpg)
+* ![Book](https://img12.360buyimg.com/n1/jfs/t18118/208/806643351/595772/1a32b251/5aab1e84N59164019.jpg)
 * [深度学习之TensorFlow—入门、原理与进阶实战](https://www.aianaconda.com/index/CodeOne)
 ### 參考
 * [視覺辨識課程](https://github.com/jumbokh/cv_face)
