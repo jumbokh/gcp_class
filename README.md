@@ -37,6 +37,7 @@
 * ![Book](https://img12.360buyimg.com/n1/jfs/t18118/208/806643351/595772/1a32b251/5aab1e84N59164019.jpg)
 * [深度学习之TensorFlow—入门、原理与进阶实战](https://www.aianaconda.com/index/CodeOne)
 ### 參考
+* [Tensorflow 官網](https://github.com/tensorflow/models)
 * [視覺辨識課程](https://github.com/jumbokh/cv_face)
 * [人臉辨識(Face recognition) 解析與實作](https://medium.com/life-is-fantistic/%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98-face-recognition-cffcec53a544)
 * [如何在 TensorFlow 使用深度學習建立臉部辨識二](https://blog.gcp.expert/tensorflow-facial-recognition-2/)
