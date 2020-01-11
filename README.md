@@ -26,6 +26,20 @@
 ##
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
+#### setup tensorflow in gcp vm
+* STEP1. 建立 VM， 2CPU, 8GP RAM, Debian
+* STEP2. 下載並安裝 [putty 終端機](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi)
+* STEP3. 檢視 並複製 SSH之 gcloud指令
+![SSH](https://github.com/jumbokh/gcp_class/blob/master/images/ssh-vm.png)
+* STEP4. 開啟 cmd 視窗，執行剛剛複製之 gcloud 指令 (已事先安裝 GCP SDK，建上方說明)
+* STEP5. 進入終端機後安裝環境:
+<pre>
+sudo apt-get update
+sudo apt-get install python3
+sudo apt-get install python3-pip
+sudo pip3 install tensorflow==2.0.0.b1
+
+</pre>
 #### Tensorflow code
 ##### Hello World!
 <pre>
