@@ -76,6 +76,7 @@ tf.print(msg)
 * ![Book](https://img12.360buyimg.com/n1/jfs/t18118/208/806643351/595772/1a32b251/5aab1e84N59164019.jpg)
 * [深度学习之TensorFlow—入门、原理与进阶实战](https://www.aianaconda.com/index/CodeOne)
 ### 參考
+* [Tensorflow 2.0 官方教程](https://www.tensorflow.org/tutorials/quickstart/advanced?hl=zh-cn)
 * [CUDA ToolKit 10.1 Download](https://developer.nvidia.com/cuda-10.1-download-archive-base)
 * [視覺辨識課程](https://github.com/jumbokh/cv_face)
 * [人臉辨識(Face recognition) 解析與實作](https://medium.com/life-is-fantistic/%E4%BA%BA%E8%87%89%E8%BE%A8%E8%AD%98-face-recognition-cffcec53a544)
