@@ -27,6 +27,20 @@
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
 #### Tensorflow code
+##### Hello World!
+<pre>
+# tensorflow 1.x
+import tensorflow as tf
+msg = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+print(sess.run(msg))
+##
+# tensorflow 2.x
+import tensorflow as tf
+msg = tf.constant('Hello, TensorFlow!')
+tf.print(msg)
+</pre>
+##
 * [Basic](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/Basics%20of%20TensorFlow%20Programming-20180809.ipynb) {[source](https://github.com/jumbokh/gcp_class/blob/master/Source/Basics%20of%20TensorFlow%20Programming-20180809.ipynb)}
 * [MNIST](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20MNIST%20-%2020181008.ipynb) {[Source](https://github.com/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20MNIST%20-%2020181008.ipynb)}
 * [CIFAR10](https://nbviewer.jupyter.org/github/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20CIFAR10%20-%2020181026.ipynb) {[Source](https://github.com/jumbokh/gcp_class/blob/master/Source/CNN%20with%20TensorFlow%20-%20CIFAR10%20-%2020181026.ipynb)}
