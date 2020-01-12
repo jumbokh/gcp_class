@@ -26,6 +26,17 @@
 ##
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
+### Face recognition 環境建置
+<pre>
+sudo apt-get update
+sudo apt-get install virtualenv git
+virtualenv cv -p python3
+source cv/bin/activate
+pip install -r requirements.txt
+git clone https://github.com/nikitaa30/Face-Recognition
+git clone https://github.com/ageitgey/face_recognition/tree/master/face_recognition
+</pre>
+#### [參考](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 #### setup tensorflow in gcp vm
 * STEP1. [建立 VM](https://console.cloud.google.com/compute/instances?hl=zh-TW)， 2CPU, 8GB RAM, Debian
 * STEP2. 下載並安裝 [putty 終端機](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi)
