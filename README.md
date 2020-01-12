@@ -29,12 +29,17 @@
 ### Face recognition 環境建置
 ### [python 3.5 升級至 python 3.7](https://exitcode0.net/debian-9-how-to-upgrade-python-3-5-to-python-3-7/)
 ### [抓圖](https://github.com/jumbokh/gcp_class/tree/master/VISION)
+### [安裝 dlib](https://www.pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/)
 <pre>
 sudo apt-get update
 sudo apt-get install virtualenv git
 virtualenv cv -p python3
 source cv/bin/activate
 pip install -r requirements.txt
+pip install imutils
+sudo apt-get install libsm6
+sudo apt-get install libxrender1
+sudo apt-get install libxext-dev
 git clone https://github.com/nikitaa30/Face-Recognition
 git clone https://github.com/ageitgey/face_recognition.git
 python Face-Recognition/encode_faces.py --dataset dataset --encodings encodings.pickle
