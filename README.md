@@ -64,6 +64,9 @@ tf.print(msg)
 * [针对专业人员的 TensorFlow 2.0 入门](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/zh-cn/tutorials/quickstart/advanced.ipynb?hl=zh-cn)
 #### Lab
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
+<pre>
+ln -fs /opt/graph_def/ssd_mobilenet_v1_coco_11_06_2017/frozen_inference_graph.pb /opt/graph_def/frozen_inference_graph.pb
+</pre>
 * [如何在 TensorFlow 使用深度學習建立臉部辨識一](https://blog.gcp.expert/tensorflow-facial-recognition-1/)
 * [IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb](https://github.com/jumbokh/cv_face/blob/master/src/IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb)
 * [人臉辨識 -- 使用 Darknet](https://github.com/jumbokh/cv_face/tree/master/opencv/day2)
