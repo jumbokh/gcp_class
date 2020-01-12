@@ -66,6 +66,8 @@ tf.print(msg)
 * [使用 TensorFlow 建立物件偵測應用程式](https://cloud.google.com/solutions/creating-object-detection-application-tensorflow)
 <pre>
 ln -fs /opt/graph_def/ssd_mobilenet_v1_coco_11_06_2017/frozen_inference_graph.pb /opt/graph_def/frozen_inference_graph.pb
+systemctl restart object-detection
+systemctl status object-detection
 </pre>
 * [如何在 TensorFlow 使用深度學習建立臉部辨識一](https://blog.gcp.expert/tensorflow-facial-recognition-1/)
 * [IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb](https://github.com/jumbokh/cv_face/blob/master/src/IMAGEAI_ObjectDetectionTrain_HoloLens.ipynb)
