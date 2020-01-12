@@ -74,7 +74,7 @@ systemctl status object-detection
 * [人臉辨識 -- 使用 Darknet](https://github.com/jumbokh/cv_face/tree/master/opencv/day2)
 * [人臉辨識 -- 使用 face recognition](https://github.com/jumbokh/cv_face/tree/master/opencv/day3)
 * [TensorFlow Face Recognition: Three Quick Tutorials](https://missinglink.ai/guides/tensorflow/tensorflow-face-recognition-three-quick-tutorials/)
-
+* [Face recognition -- encode](https://github.com/nikitaa30/Face-Recognition)
 ####
 * [Quick Start: Distributed Training on the Oxford-IIIT Pets Dataset on Google Cloud](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_pets.md)
 ### Book
