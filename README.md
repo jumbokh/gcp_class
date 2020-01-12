@@ -34,7 +34,7 @@ virtualenv cv -p python3
 source cv/bin/activate
 pip install -r requirements.txt
 git clone https://github.com/nikitaa30/Face-Recognition
-git clone https://github.com/ageitgey/face_recognition/tree/master/face_recognition
+git clone https://github.com/ageitgey/face_recognition.git
 </pre>
 #### [參考](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 #### setup tensorflow in gcp vm
