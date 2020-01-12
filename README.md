@@ -27,6 +27,7 @@
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
 ### Face recognition 環境建置
+### [python 3.5 升級至 python 3.7](https://exitcode0.net/debian-9-how-to-upgrade-python-3-5-to-python-3-7/)
 <pre>
 sudo apt-get update
 sudo apt-get install virtualenv git
