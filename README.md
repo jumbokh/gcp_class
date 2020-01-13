@@ -62,7 +62,7 @@ python Face-Recognition/recognize_faces_image.py --encodings encodings.pickle --
 * STEP2. 下載並安裝 [putty 終端機](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi)
 * STEP3. 檢視 並複製 SSH之 gcloud指令
 ![SSH](https://github.com/jumbokh/gcp_class/blob/master/images/ssh-vm.png)
-* STEP4. 開啟 cmd 視窗，執行剛剛複製之 gcloud 指令 (已事先安裝 GCP SDK，建上方說明)
+* STEP4. 開啟 cmd 視窗，執行剛剛複製之 gcloud 指令 (已事先安裝 GCP SDK，見上方說明)
 * STEP5. 進入終端機後安裝環境:
 <pre>
 sudo apt-get update
