@@ -23,8 +23,10 @@
 * [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
 * [Optical Character Recognition (OCR) Tutorial](https://cloud.google.com/functions/docs/tutorials/ocr?hl=zh-tw#functions-prepare-environment-python)
 * [How to serve deep learning models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions?hl=zh-tw)
+* [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
 ### Main Lab
 * [Detect text in images](https://cloud.google.com/vision/docs/ocr?hl=zh-tw&apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcar-license-01%2Farticleimage_170542.jpg%22%7D%7D%7D%5D%7D%7D)
+
 ### 實戰演練
 * Q1: 把 image 存下來， 試著放至 storage， 然後傳下來至個人電腦
 #### 說明:
