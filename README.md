@@ -31,7 +31,7 @@
 python train.py
 fashion_mnist_weights_new.index
 fashion_mnist_weights.data-00000-of-00001
-# copy two files to gs://<your bucket>/tensorflow/  with test.png
+# copy two files to gs://your-bucket/tensorflow/  with test.png
 </pre>
 * Deploy by command Line
 <pre>
