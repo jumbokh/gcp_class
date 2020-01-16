@@ -20,9 +20,19 @@
 ##
 ## Day 5
 ### Tensorflow: 文字辨識、車牌辨識應用
+* [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
+* [Optical Character Recognition (OCR) Tutorial](https://cloud.google.com/functions/docs/tutorials/ocr?hl=zh-tw#functions-prepare-environment-python)
+* [How to serve deep learning models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions?hl=zh-tw)
+### Main Lab
+* [Detect text in images](https://cloud.google.com/vision/docs/ocr?hl=zh-tw&apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcar-license-01%2Farticleimage_170542.jpg%22%7D%7D%7D%5D%7D%7D)
+
+### 參考
+* [Exploratory data analysis, feature selection for better ML models](https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection)
+* [Auto Data Exploration and Feature Recommendation Tool](https://github.com/GoogleCloudPlatform/professional-services/tree/master/tools/ml-auto-eda)
 * [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
 * [實作基於 tensorflow 和 CNN 的車牌辨識系統](https://github.com/sapphirelin/re-deep-anpr)
-
+* [Batch image annotation offline](https://cloud.google.com/vision/docs/batch?hl=zh-tw)
+* [Translating and speaking text from a photo with glossaries](https://cloud.google.com/translate/docs/hybrid-glossaries-tutorial?hl=zh-tw)
 ##
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
