@@ -25,6 +25,13 @@
 * [Cloud Function](https://console.cloud.google.com/functions)
 * [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
 * [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
+* Deploy by command Line
+<pre>
+git clone https://github.com/ryfeus/gcf-packs
+cd gcf-packs/tensorflow2.0/example/
+gcloud functions deploy handler --runtime python37 --trigger-http --memory 2048
+gcloud functions call handler
+</pre>
 ##
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
 ### Main Lab
