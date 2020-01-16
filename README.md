@@ -37,6 +37,7 @@ fashion_mnist_weights.data-00000-of-00001
 <pre>
 git clone https://github.com/ryfeus/gcf-packs
 cd gcf-packs/tensorflow2.0/example/
+# modeify bucket name in main.py
 gcloud functions deploy handler --runtime python37 --trigger-http --memory 2048
 gcloud functions call handler
 </pre>
