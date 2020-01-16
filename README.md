@@ -33,6 +33,7 @@
 * [實作基於 tensorflow 和 CNN 的車牌辨識系統](https://github.com/sapphirelin/re-deep-anpr)
 * [Batch image annotation offline](https://cloud.google.com/vision/docs/batch?hl=zh-tw)
 * [Translating and speaking text from a photo with glossaries](https://cloud.google.com/translate/docs/hybrid-glossaries-tutorial?hl=zh-tw)
+* [Using neural networks to build an automatic number plate recognition system](https://github.com/matthewearl/deep-anpr)
 ##
 ## Day 4
 ### Tensorflow: 環境建置、人臉辨識應用
@@ -129,7 +130,7 @@ systemctl status object-detection
 * [如何在 TensorFlow 使用深度學習建立臉部辨識二](https://blog.gcp.expert/tensorflow-facial-recognition-2/)
 * [如何在 TensorFlow 使用深度學習建立臉部辨識三](https://blog.gcp.expert/tensorflow-facial-recognition-3/)
 * [科技大擂台 與AI對話(熱身賽)](https://fgc.stpi.narl.org.tw/activity/video/techai)
-
+* [Face Recognition with Python, in Under 25 Lines of Code](https://realpython.com/face-recognition-with-python/)
 
 ## Day 3
 ## [講義: Natural Language API](https://github.com/jumbokh/gcp_class/blob/master/NLP/Natural%20Language%20API.pptx)
