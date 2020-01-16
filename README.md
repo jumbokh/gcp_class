@@ -26,16 +26,18 @@
 * [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
 * [train.py](https://github.com/ryfeus/gcf-packs/blob/master/tensorflow2.0/example/train.py)
 * [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
-##### Running train.py
+* Running train.py
 <pre>
 python train.py
 fashion_mnist_weights_new.index
 fashion_mnist_weights.data-00000-of-00001
+# copy two files to gs://your-bucket/tensorflow/  with test.png
 </pre>
 * Deploy by command Line
 <pre>
 git clone https://github.com/ryfeus/gcf-packs
 cd gcf-packs/tensorflow2.0/example/
+# modeify bucket name in main.py
 gcloud functions deploy handler --runtime python37 --trigger-http --memory 2048
 gcloud functions call handler
 </pre>
