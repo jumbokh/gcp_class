@@ -26,7 +26,7 @@
 * [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
 * [train.py](https://github.com/ryfeus/gcf-packs/blob/master/tensorflow2.0/example/train.py)
 * [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
-##### Running train.py
+* Running train.py
 <pre>
 python train.py
 fashion_mnist_weights_new.index
