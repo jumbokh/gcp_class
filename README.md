@@ -25,7 +25,16 @@
 * [How to serve deep learning models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions?hl=zh-tw)
 ### Main Lab
 * [Detect text in images](https://cloud.google.com/vision/docs/ocr?hl=zh-tw&apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcar-license-01%2Farticleimage_170542.jpg%22%7D%7D%7D%5D%7D%7D)
-
+### 實戰演練
+* Q1: 把 image 存下來， 試著放至 storage， 然後傳下來至個人電腦
+#### 說明:
+#### 已經設置安裝好的 VM 想要保留下來，參照第一天的實作，建立 image， 然後傳到 storage bucket， 
+#### 接著在Local端以 gsutil 指令下載， 最後記得把 bucket 中的 image 及 vm中建立的 image 刪除
+##
+* Q2: face recognition 專案， 可以把它做成第四天實作的第一個 Flask 網頁程式嗎?
+##
+* Q3: 可以把 GCP VM 的 X11 Display 打開， 以 vnc viewer 在 Local 端顯示嗎?
+##
 ### 參考
 * [Exploratory data analysis, feature selection for better ML models](https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection)
 * [Auto Data Exploration and Feature Recommendation Tool](https://github.com/GoogleCloudPlatform/professional-services/tree/master/tools/ml-auto-eda)
