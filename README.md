@@ -28,6 +28,7 @@
 * [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
 ##### Running train.py
 <pre>
+python train.py
 fashion_mnist_weights_new.index
 fashion_mnist_weights.data-00000-of-00001
 </pre>
