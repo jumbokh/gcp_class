@@ -23,6 +23,8 @@
 * [Optical Character Recognition (OCR) Tutorial](https://cloud.google.com/functions/docs/tutorials/ocr?hl=zh-tw#functions-prepare-environment-python)
 ### [How to serve deep learning models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions?hl=zh-tw)
 * [Cloud Function](https://console.cloud.google.com/functions)
+* [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
+* [requirements.txt]()
 ##
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
 ### Main Lab
