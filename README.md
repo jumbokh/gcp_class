@@ -28,10 +28,10 @@
     - [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
  - Running train.py
 ##
- - python train.py
+ - python train.py # 產出2個檔案
     - fashion_mnist_weights_new.index
     - fashion_mnist_weights.data-00000-of-00001
-# copy two files to gs://your-bucket/tensorflow/  with test.png
+ - copy two files to gs://your-bucket/tensorflow/  with test.png
 
 * Deploy by command Line
 <pre>
