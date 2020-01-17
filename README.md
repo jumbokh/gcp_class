@@ -23,14 +23,14 @@
 * [Optical Character Recognition (OCR) Tutorial](https://cloud.google.com/functions/docs/tutorials/ocr?hl=zh-tw#functions-prepare-environment-python)
 ### [How to serve deep learning models using TensorFlow 2.0 with Cloud Functions](https://cloud.google.com/blog/products/ai-machine-learning/how-to-serve-deep-learning-models-using-tensorflow-2-0-with-cloud-functions?hl=zh-tw)
 * [Cloud Function](https://console.cloud.google.com/functions)
-* [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
-* [train.py](https://github.com/ryfeus/gcf-packs/blob/master/tensorflow2.0/example/train.py)
-* [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
-    * Running train.py
+    - [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
+    - [train.py](https://github.com/ryfeus/gcf-packs/blob/master/tensorflow2.0/example/train.py)
+    - [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
+ - Running train.py
 ##
-    * python train.py
-       - fashion_mnist_weights_new.index
-       - fashion_mnist_weights.data-00000-of-00001
+ - python train.py
+    - fashion_mnist_weights_new.index
+    - fashion_mnist_weights.data-00000-of-00001
 # copy two files to gs://your-bucket/tensorflow/  with test.png
 
 * Deploy by command Line
