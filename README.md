@@ -25,7 +25,7 @@
 * [Cloud Function](https://console.cloud.google.com/functions)
     - [main.py](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/main.py)
     - [train.py](https://github.com/ryfeus/gcf-packs/blob/master/tensorflow2.0/example/train.py)
-    - [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt)
+    - [requirements.txt](https://github.com/jumbokh/gcp_class/blob/master/Tensorflow/car/web-tf2/requirements.txt) {其中 Pillow已註解，請自行打開，去掉 '#'}
  - Running train.py
 ##
  - python train.py # 產出2個檔案
