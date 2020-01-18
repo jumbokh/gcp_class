@@ -61,6 +61,7 @@ gcloud functions call handler
 * Q2: face recognition 專案， 可以把它做成第四天實作的第一個 Flask 網頁程式嗎?
 ##
 * Q3: 可以把 GCP VM 的 X11 Display 打開， 以 vnc viewer 在 Local 端顯示嗎?
+#### 試著參考: [Setup GUI Desktop on Google Cloud Platform (GCP) VM instance](http://leadtosilverlining.blogspot.com/2019/01/setup-desktop-environment-on-google.html)
 ##
 ### 參考
 * [Exploratory data analysis, feature selection for better ML models](https://cloud.google.com/blog/products/ai-machine-learning/building-ml-models-with-eda-feature-selection)
