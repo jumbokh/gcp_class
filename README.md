@@ -42,7 +42,7 @@ gcloud functions deploy handler --runtime python37 --trigger-http --memory 2048
 gcloud functions call handler
 </pre>
 ##
-* [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
+* [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/) {需要以SUN database 進行訓練，由於資料過大，自行演練}
 ### Main Lab (Notebook)
 * [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
     - 需要啟用 Google Cloud API
