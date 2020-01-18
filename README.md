@@ -124,7 +124,7 @@ sudo apt-get install libxrender1
 sudo apt-get install libxext-dev
 git clone https://github.com/nikitaa30/Face-Recognition
 git clone https://github.com/ageitgey/face_recognition.git
-python Face-Recognition/encode_faces.py --dataset dataset --encodings encodings.pickle
+python Face-Recognition/encode_faces.py --dataset Dataset --encodings encodings.pickle
 python Face-Recognition/recognize_faces_image.py --encodings encodings.pickle --image examples/example_01.png
 </pre>
 #### [參考](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
