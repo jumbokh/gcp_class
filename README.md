@@ -53,21 +53,20 @@ gcloud functions call handler
     - [啟用 API](https://cloud.google.com/endpoints/docs/openapi/enable-api?hl=zh-tw)
     - [在 GCP 專案中啟用 API ](https://cloud.google.com/endpoints/docs/frameworks/enable-api)
 * [Detect text in images](https://cloud.google.com/vision/docs/ocr?hl=zh-tw&apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fcar-license-01%2Farticleimage_170542.jpg%22%7D%7D%7D%5D%7D%7D)
-    <pre>
-    Example Usage:
+<pre>
+Example Usage:
 python detect.py text ./resources/wakeupcat.jpg
 python detect.py labels ./resources/landmark.jpg
 python detect.py web ./resources/landmark.jpg
 python detect.py web-uri http://wheresgus.com/dog.JPG
 python detect.py web-geo ./resources/city.jpg
 python detect.py faces-uri gs://your-bucket/file.jpg
-python detect.py ocr-uri gs://python-docs-samples-tests/HodgeConj.pdf \
-gs://BUCKET_NAME/PREFIX/
+python detect.py ocr-uri gs://python-docs-samples-tests/HodgeConj.pdf gs://BUCKET_NAME/PREFIX/
 python detect.py object-localization ./resources/puppies.jpg
 python detect.py object-localization-uri gs://...
 For more information, the documentation at
 https://cloud.google.com/vision/docs.
-    </pre>
+</pre>
 ### 實戰演練
 * Q1: 把 image 存下來， 試著放至 storage， 然後傳下來至個人電腦
 #### 說明:
