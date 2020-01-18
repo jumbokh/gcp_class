@@ -43,7 +43,7 @@ gcloud functions call handler
 </pre>
 ##
 * [Number plate recognition with Tensorflow](http://matthewearl.github.io/2016/05/06/cnn-anpr/)
-### Main Lab
+### Main Lab (Notebook)
 * [End-to-end Machine Learning with Tensorflow on GCP](https://codelabs.developers.google.com/codelabs/end-to-end-ml/index.html?index=..%2F..cloudai#0)
     - 需要啟用 Google Cloud API
     <pre>
