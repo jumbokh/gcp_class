@@ -1,4 +1,5 @@
 # gcp_class
+I.  [高雄市資訊培育協會: Google Cloud AI人工智慧與機器學習應用班](https://ojt.wda.gov.tw/ClassSearch/Detail?OCID=123280&plantype=1)
 ##
 #### ![課程](images/課程.jpg)
 ##
