@@ -41,7 +41,7 @@ I.  [高雄市資訊培育協會: Google Cloud AI人工智慧與機器學習應�
            - fashion_mnist_weights_new.index
            - fashion_mnist_weights.data-00000-of-00001
      - copy two files to gs://your-bucket/tensorflow/  with test.png
-* Deploy by command Line
+* Deploy by command Line (在 Console 中執行)
 <pre>
 git clone https://github.com/ryfeus/gcf-packs
 cd gcf-packs/tensorflow2.0/example/
