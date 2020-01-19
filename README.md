@@ -74,6 +74,8 @@ python detect.py object-localization ./resources/puppies.jpg
 python detect.py object-localization-uri gs://...
 For more information, the documentation at
 https://cloud.google.com/vision/docs.
+# Google Cloud vision API using Tensorflow examples and documents
+git clone https://github.com/GoogleCloudPlatform/python-docs-samples.git
 </pre>
 ### 實戰演練
 * Q1: 把 image 存下來， 試著放至 storage， 然後傳下來至個人電腦
