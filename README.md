@@ -8,10 +8,10 @@ I.  [高雄市資訊培育協會: Google Cloud AI人工智慧與機器學習應�
 ## Python 開發環境建置及 Google Cloud SDK
 * [python 開發環境安裝](https://cloud.google.com/python/setup?hl=zh-tw) 或是下載 [Winpython](https://drive.google.com/open?id=1MYVYG6kY5Tj15-nq7RBctVn4oZX15akH)
     * 如果有 SSL 的問題， 以系統管理員執行 command prompt，然後執行以下指令:
-    <pre>
+<pre>
     mklink "C:\ProgramData\Anaconda3\DLLs\libcrypto-1_1-x64.dll" "C:\ProgramData\Anaconda3\Library\bin\libcrypto-1_1-x64.dll"
     mklink "C:\ProgramData\Anaconda3\DLLs\libssl-1_1-x64.dll" "C:\ProgramData\Anaconda3\Library\bin\libssl-1_1-x64.dll"
-    </pre>
+</pre>
 * [GCP SDK 安裝](https://cloud.google.com/sdk/docs/quickstart-windows?hl=zh-tw)
 * [情緒分析教學課程](https://cloud.google.com/natural-language/docs/sentiment-tutorial?hl=zh-tw)
 * [內容分類教學課程](https://cloud.google.com/natural-language/docs/classify-text-tutorial?hl=zh-tw)
