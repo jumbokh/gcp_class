@@ -24,7 +24,7 @@ pycparser==2.19
 pyOpenSSL==19.1.0
 requests==2.22.0
 requests-oauthlib==1.3.0
-rsa==4.0
+rsa==4.1
 six==1.13.0
 sounddevice==0.3.14
 tenacity==4.12.0
